@@ -10,4 +10,6 @@
 // // avarageMark = parseFloat(avarageMark)
 
 // // console.log(avarageMark.toFixed(2))
-console.log(17%5)
+console.log(17 % 5)
+var input1 = 'hello';
+console.log(input1);
