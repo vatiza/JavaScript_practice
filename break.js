@@ -17,5 +17,9 @@
 var items=['aminur','rakib','mehedi', 'raihan','nahina','mohib'];
 for(var i=0;i<items.length;i++){
      var item=items[i];
+     if(items==='mohib'){
+        break;
+        
+     }
      console.log(items)
 }
