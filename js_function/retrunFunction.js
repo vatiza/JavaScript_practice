@@ -6,4 +6,11 @@ function add(num1, num2) {
 }
 
 var total = add(80, 20);
-console.log('total:',total)
+console.log('total:', total) 
+function bringSingara(money) {
+    var singaraPrice = 10;
+    var quantity = money * singaraPrice;
+    return quantity;
+}
+var singaras = bringSingara(20);
+console.log("eating signgaras",singaras)
