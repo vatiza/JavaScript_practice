@@ -7,8 +7,18 @@ function getSum(numbers) {
         console.log(index, elements, sum)
         
     }
-    
+    return sum;    
 
+}
+function getOddNumberOfArray(numbers) {
+    for (let i = 0; i < numbers.length; i++){
+        const index = i;
+        const elements = numbers[index];
+        if (elements % 2 !== 0) {
+            console.log(index, elements)
+        }
+    }
+        
 }
 
 
