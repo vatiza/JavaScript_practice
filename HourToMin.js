@@ -1,0 +1,4 @@
+function hourToMin(min) {
+    
+    gt
+}
