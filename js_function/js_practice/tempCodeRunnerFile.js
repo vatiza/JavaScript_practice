@@ -1,1 +1,1 @@
-const trim = text.trimStart();
+console.log('random');
