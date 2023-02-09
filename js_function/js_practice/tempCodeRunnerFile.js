@@ -1,1 +1,1 @@
-console.log('tallest person is: ', tallest);
+const tallest = maxInArray(heights)
