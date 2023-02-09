@@ -1,1 +1,1 @@
-console.log('random');
+console.log('tallest person is: ', tallest);
