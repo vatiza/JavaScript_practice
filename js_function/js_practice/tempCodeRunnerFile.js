@@ -1,1 +1,1 @@
- sum = sum + elements;
+const trim = text.trimStart();
